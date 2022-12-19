@@ -9,6 +9,6 @@ module.exports = {
           console.log(chalk.red("[Error] ") + error)
      },
      databaseMessage: function(message) {
-          console.log(chalk.green("[Database] ") + message)
+          console.log(chalk.green("[MongoDB] ") + message)
      }
 }
