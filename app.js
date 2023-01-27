@@ -24,7 +24,7 @@
     // orm, database
         const mongoose = require("mongoose");
 
-// application
+// application configs
 
     // handlebars
         app.engine('handlebars', handlebars.engine({ defaultLayout: "main"}))
