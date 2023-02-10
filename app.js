@@ -1,5 +1,5 @@
 // modules
-    // .ent
+    // .env
         require("dotenv").config();
     // express
         const express = require("express");
